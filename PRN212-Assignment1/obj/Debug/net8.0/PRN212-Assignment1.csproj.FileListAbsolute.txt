@@ -1,0 +1,14 @@
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\bin\Debug\net8.0\PRN212-Assignment1.exe
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\bin\Debug\net8.0\PRN212-Assignment1.deps.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\bin\Debug\net8.0\PRN212-Assignment1.runtimeconfig.json
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\bin\Debug\net8.0\PRN212-Assignment1.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\bin\Debug\net8.0\PRN212-Assignment1.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.AssemblyInfoInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.AssemblyInfo.cs
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\refint\PRN212-Assignment1.dll
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.pdb
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\PRN212-Assignment1.genruntimeconfig.cache
+D:\UNIVERSITY\Sem5\PRN212\CODE\PRN212-Assignment1\PRN212-Assignment1\obj\Debug\net8.0\ref\PRN212-Assignment1.dll
